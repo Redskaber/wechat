@@ -1,0 +1,8 @@
+# Nix gitignore
+/.direnv/
+/.envrc
+/result
+/result-*
+/.ds-store
+*.tar.gz
+/dist/
